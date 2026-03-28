@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchit Bhosle</h1>
-<h3 align="center">Aspiring DevOps Engineer | AWS | Linux | CI/CD</h3>
+<h3 align="center">Aspiring CLoud / DevOps Engineer | AWS | Linux | CI/CD</h3>
 
 ---
 
@@ -42,14 +42,14 @@
 ## 📌 Featured Projects
 
 - 🚀 DevOps CI/CD Project (AWS + GitHub Actions)
-- 🌐 LavishEscapes (Deployed Website)
+- 🌐 LavishEscapes
 - ⚙️ EC2 + Nginx Deployment Project
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
+- 💼 LinkedIn: https://www.linkedin.com/in/ruchitbhosle/
+- 📧 Email: ruchitbhosle@gmail.com
 
 ---
