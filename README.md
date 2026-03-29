@@ -1,55 +1,97 @@
 <h1 align="center">Hi 👋, I'm Ruchit Bhosle</h1>
-<h3 align="center">Aspiring CLoud / DevOps Engineer | AWS | Linux | CI/CD</h3>
+
+<p align="center">
+🚀 Aspiring DevOps Engineer | ☁️ AWS | 🐧 Linux | ⚙️ CI/CD  
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+World+DevOps+Projects;AWS+%7C+CI%2FCD+%7C+Linux;Future+DevOps+Engineer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
+
 - 🎓 BTech in Cloud Technology & Information Security  
-- ☁️ Passionate about AWS, DevOps & Automation  
-- 🔧 Building real-world projects using EC2, Nginx, GitHub Actions  
+- ☁️ Focused on AWS, DevOps & Automation  
+- 🔧 Hands-on with EC2, Nginx, GitHub Actions  
+- 📈 Learning by building real-world cloud projects  
 - 🎯 Goal: Become a DevOps Engineer  
+
+---
+
+## 🚀 Current Focus
+
+- 🔄 Building CI/CD pipelines using GitHub Actions  
+- ☁️ Deploying scalable apps on AWS EC2  
+- 🐳 Learning Docker for containerization  
+- 📊 Improving Linux & networking fundamentals  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+### ☁️ Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-### ⚙️ DevOps Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx" />
+</p>
 
-### 💻 OS & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### 💻 OS & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 DevOps CI/CD Pipeline (AWS + GitHub Actions)
+- Automated deployment using GitHub Actions  
+- Hosted on AWS EC2 with Nginx  
+- Zero manual deployment  
+
+### 🌐 LavishEscapes (Live Project)
+- Responsive travel website  
+- Deployed using AWS EC2  
+
+### ⚙️ EC2 + Nginx Deployment
+- Configured production server  
+- Reverse proxy setup  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ruchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchitb19&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruchitb19&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ruchitb19&theme=radical)
-
----
-
-## 📌 Featured Projects
-
-- 🚀 DevOps CI/CD Project (AWS + GitHub Actions)
-- 🌐 LavishEscapes
-- ⚙️ EC2 + Nginx Deployment Project
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ruchitb19&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ruchitbhosle/
-- 📧 Email: ruchitbhosle@gmail.com
+<p>
+<a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ⚡ DevOps Mindset
+
+> "I don’t just learn tools — I build systems that work in real environments."
 
 ---
