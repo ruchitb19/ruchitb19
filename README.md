@@ -33,7 +33,7 @@
 
 ### ☁️ Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
 
 ### ⚙️ DevOps & Tools
@@ -84,8 +84,8 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ruchitbhosle/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ruchitbhosle@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
