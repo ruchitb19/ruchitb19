@@ -38,7 +38,7 @@
 
 ### ⚙️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx" />
 </p>
 
 ### 💻 OS & Version Control
@@ -50,12 +50,12 @@
 
 ## 📂 Featured Projects
 
-### 🚀 DevOps CI/CD Pipeline (AWS + GitHub Actions)
-- Automated deployment using GitHub Actions  
+### 🚀 DevOps CI/CD Pipeline (AWS + Jenkin)
+- Automated deployment using Jenkins  
 - Hosted on AWS EC2 with Nginx  
 - Zero manual deployment  
 
-### 🌐 LavishEscapes (Live Project)
+### 🌐 LavishEscapes
 - Responsive travel website  
 - Deployed using AWS EC2  
 
